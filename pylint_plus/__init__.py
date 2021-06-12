@@ -1,5 +1,3 @@
-"""pylint-quotes module"""
-
 from __future__ import absolute_import
 
 from pylint_plus.magic_constant_checker import MagicConstantChecker  # noqa: F401
