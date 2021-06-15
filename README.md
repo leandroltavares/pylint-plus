@@ -79,4 +79,22 @@ we have the following options available.
 
 ### Return method
 
+#### TO BE DOCUMENTED
+
+### Function/Method order
+
+#### TO BE DOCUMENTED
+
 You may find other examples at the [`example/`](example) directory
+
+## Changelog
+
+## v0.0.2
+
+* Initial implementation of the `Function/Method order` checker.
+* Fix `Return Method` checker unit tests
+
+## v0.0.1
+
+* Initial implementation of the `Magic constant` checker.
+* Initial implementation of the `Return method` checker.

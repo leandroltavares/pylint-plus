@@ -13,7 +13,7 @@ class TestMagicValueChecker(pylint.testutils.CheckerTestCase):
             pass
         """)
 
-        with self.assertAddsMessages(pylint.testutils.Message(msg_id='magic-constant', node=extracted_node.args[0],
+        with self.assertAddsMessages(pylint.testutils.Message(msg_id='function-missing-return', node=extracted_node,
                                                               ),):
             self.checker.visit_functiondef(extracted_node)
             self.checker.leave_functiondef(extracted_node)
