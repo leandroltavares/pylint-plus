@@ -1,5 +1,6 @@
 # pylint-plus
 [![Build](https://travis-ci.com/leandroltavares/pylint-plus.svg?branch=main&status=passed)](https://travis-ci.com/leandroltavares/pylint-plus.svg?branch=main&status=passed)
+[![codecov](https://codecov.io/gh/leandroltavares/pylint-plus/branch/main/graph/badge.svg?token=8A3J5M2LYF)](https://codecov.io/gh/leandroltavares/pylint-plus)
 [![Latest Version](https://img.shields.io/pypi/v/pylint-plus)](https://pypi.python.org/pypi/pylint-plus)
 [![License](https://img.shields.io/github/license/leandroltavares/pylint-plus.svg)](LICENSE)
 
