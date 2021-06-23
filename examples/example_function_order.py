@@ -1,4 +1,4 @@
-#pylint: disable=missing-module-docstring,missing-function-docstring,missing-class-docstring,no-self-use,too-few-public-methods
+#pylint: disable=missing-module-docstring,missing-module-docstring,missing-function-docstring,missing-class-docstring,no-self-use,too-few-public-methods
 def first():  # First should be defined after second, too keep call order
     pass
 

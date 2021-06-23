@@ -1,5 +1,3 @@
-#pylint: disable=missing-module-docstring,missing-function-docstring,too-few-public-methods
-
 def get_something():  # Function is good as it returns something
     return True
 

@@ -1,4 +1,4 @@
-#pylint: disable=missing-module-docstring,missing-function-docstring
+#pylint: disable=missing-module-docstring,missing-function-docstring,missing-class-docstring
 def example_bad_return():
     return 42
 
