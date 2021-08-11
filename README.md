@@ -94,7 +94,7 @@ You may find other examples at the [`example/`](example) directory
 ## v0.0.2
 
 * Initial implementation of the `Function/Method order` checker.
-* Fix `Return Method` checker unit tests
+* Fix `Return Method` checker unit tests.
 
 ## v0.0.1
 
